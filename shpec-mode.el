@@ -3,7 +3,7 @@
 ;; Copyright (C) 2015  Adriean Khisbe
 
 ;; Author: AdrieanKhisbe <adriean.khisbe@live.fr>
-;; Version: 0.0.1
+;; Version: 0.1.0
 ;; Keywords: languages, tools
 ;; URL: http://github.com/shpec/shpec-mode
 ;; Package-Requires: ()
@@ -25,8 +25,9 @@
 
 ;;; Commentary:
 
-;; This is a minimal, *in-building* emacs mode for shpec shell specifications.
-;;
+;; This is a minimal, *in-building* emacs mode for shpec shell
+;; specifications. So far, just a derived mode of `sh-mode'
+;; with fontification of shpec keywords
 
 ;;; Code:
 
