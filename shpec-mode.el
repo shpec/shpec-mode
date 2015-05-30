@@ -1,4 +1,4 @@
-;;; shpec-mode.el --- Minor mode for shpec specification         -*- lexical-binding: t; -*-
+;;; shpec-mode.el --- Minor mode for shpec specification
 
 ;; Copyright (C) 2015  Adriean Khisbe
 
